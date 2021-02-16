@@ -1,1 +1,1 @@
-This web application validates credit card information recieved from a user using JavaScript. 
+This web application validates credit card information recieved from a user. It ensures that only accurate information is entered.
